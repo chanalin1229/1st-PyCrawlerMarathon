@@ -1,3 +1,4 @@
+# 執行指令 scrapy crawl PTTCrawler -a board=NBA
 # -*- coding: utf-8 -*-
 import scrapy
 import re
